@@ -9,3 +9,5 @@ It applies Computer Vision techniques to audio processing. I utilize Siamese Con
 
 
 The [Dihard Dataset](https://coml.lscp.ens.fr/dihard/index.html) is used for training and evaluations.
+
+[Google Colab](https://colab.research.google.com) with GPU runtime is my friend :-)
