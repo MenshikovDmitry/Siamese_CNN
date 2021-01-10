@@ -1,5 +1,5 @@
 # Siamese_CNN
-Siamese Constitutional Neural Network for sound processing
+Siamese Convolutional Neural Network for sound processing
 
 
 Current Jupyter notebooks is a part of my master's capstone project, made at [QUT SAIVT Lab](https://research.qut.edu.au/saivt/).
